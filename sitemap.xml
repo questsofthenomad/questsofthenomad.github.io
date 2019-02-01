@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://questsofthenomad.com/travel/welcome-blog/</loc>
+    <loc>https://questsofthenomad.github.io/travel/welcome-blog/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/experiences/coming-soon/</loc>
+    <loc>https://questsofthenomad.github.io/experiences/coming-soon/</loc>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/about/</loc>
+    <loc>https://questsofthenomad.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/categories/</loc>
+    <loc>https://questsofthenomad.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/contact/</loc>
+    <loc>https://questsofthenomad.github.io/contact/</loc>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/experiences/</loc>
+    <loc>https://questsofthenomad.github.io/experiences/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/</loc>
-    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://questsofthenomad.com/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://questsofthenomad.com/travel/</loc>
+    <loc>https://questsofthenomad.github.io/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/tags/travel/</loc>
+    <loc>https://questsofthenomad.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://questsofthenomad.github.io/travel/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://questsofthenomad.com/categories/journey/</loc>
+    <loc>https://questsofthenomad.github.io/tags/travel/</loc>
+    <lastmod>2019-01-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://questsofthenomad.github.io/categories/journey/</loc>
     <lastmod>2019-01-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
