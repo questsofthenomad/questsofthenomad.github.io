@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Quests Of The Nomad</title>
-    <link>https://questsofthenomad.github.io/about/</link>
+    <link>https://questsofthenomad.com/about/</link>
     <description>Recent content in About on Quests Of The Nomad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://questsofthenomad.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://questsofthenomad.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
